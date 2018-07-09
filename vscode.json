@@ -1,0 +1,5 @@
+{
+    "workbench.startupEditor": "none",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.linting.pep8Path": "pycodestyle"
+}
