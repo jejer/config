@@ -1,5 +1,12 @@
 {
     "workbench.startupEditor": "none",
     "diffEditor.ignoreTrimWhitespace": false,
-    "python.linting.pep8Path": "pycodestyle"
+    "python.linting.pep8Path": "pycodestyle",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "files.eol": "\n",
 }
