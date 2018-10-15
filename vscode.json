@@ -9,4 +9,5 @@
     "gitlens.currentLine.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
     "files.eol": "\n",
+    "editor.renderWhitespace": "boundary"
 }
