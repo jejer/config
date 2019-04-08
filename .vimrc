@@ -16,7 +16,7 @@ syntax on
 filetype plugin indent on
 colors elflord
 
-set listchars=tab:>-,eol:$,trail:~,extends:>,precedes:<
+set listchars=eol:¬,tab:>·,trail:~,extends:>,precedes:<,space:␣
 " set list
 set hlsearch
 
