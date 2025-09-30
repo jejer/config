@@ -43,7 +43,7 @@ set smartcase                 " ...unless the search pattern contains an upperca
 " ============================================================================
 " Usability & File Handling
 " ============================================================================
-set mouse=a                   " Enable mouse support in all modes
+"set mouse=a                   " Enable mouse support in all modes
 set scrolloff=8               " Keep 8 lines of context around the cursor
 set hidden                    " Allow switching buffers without saving
 set history=1000              " Increase the command history size
