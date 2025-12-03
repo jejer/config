@@ -98,3 +98,6 @@ autocmd FileType python setlocal expandtab shiftwidth=4 tabstop=4
 
 " For Markdown, disable automatic line wrapping
 autocmd FileType markdown setlocal textwidth=0
+
+" For return to last edit position when opening files
+autocmd BufReadPost * silent! normal! g`"zv
